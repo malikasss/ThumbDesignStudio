@@ -2,7 +2,6 @@
   "name": "ThumbDesignStudio",
   "description": "A professional-grade web-based design tool for creating thumbnails, banners, and social media posts. Features advanced image manipulation, text effects, gradients, and AI-powered tools.",
   "requestFramePermissions": [
-    "camera",
-    "microphone"
+    "camera"
   ]
 }
